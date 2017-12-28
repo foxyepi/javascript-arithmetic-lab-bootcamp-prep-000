@@ -16,13 +16,11 @@ function inc(n) {
 function dec(n) {
   return (n - 1)
 }
-function makeInt(n) {
-  return (parseInt)
-  console.log ("tostring = n")
+function makeInt(n)
+  parseInt ("n", 10)
+  return parseInt(n)
 }
-function makeInt(10) {
-  console.log ("0 * 2328 = 0")
-}
+function 
 
 
 
