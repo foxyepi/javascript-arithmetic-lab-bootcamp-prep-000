@@ -20,7 +20,11 @@ function makeInt(n)
   parseInt ("n", 10)
   return parseInt(n)
 }
-function 
+function preserveDecimal(n) {
+  parseInt(n)
+}
+
+
 
 
 
